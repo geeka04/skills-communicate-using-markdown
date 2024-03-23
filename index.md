@@ -7,7 +7,7 @@
 
 # Image using MD
 
-![Image of Preminger from barbie movie](https://cdn.britannica.com/70/94870-050-2ECAB6AD/Cats-Eye-nebula.jpg)
+![Image of a nebula](https://cdn.britannica.com/70/94870-050-2ECAB6AD/Cats-Eye-nebula.jpg)
 
 # Codes using MD
 
