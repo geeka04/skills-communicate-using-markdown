@@ -7,7 +7,7 @@
 
 # Image using MD
 
-![Image of Preminger from barbie movie](https://static.wikia.nocookie.net/villains/images/5/58/Premingerbarbievillains.jpg/revision/latest?cb=20210519094225)
+![Image of Preminger from barbie movie](https://cdn.britannica.com/70/94870-050-2ECAB6AD/Cats-Eye-nebula.jpg)
 
 # Codes using MD
 
